@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: colorful_figlet
+Version: 0.1
+Summary: Beautifull colorful figlet for python prgram with terminal
+Home-page: https://github.com/Mahdi-Shafiei-IRAN/colorful_figlet
+Author: MAHDI
+Author-email: mahdishafiei920@gmail.com
+License: MIT
+Requires-Dist: termcolor
+Requires-Dist: pyfiglet
+
+
+    figlet(text,font,color) -> figlet("text",big","red")
+    color and font are optional -> figlet(text)
+    return figlet form of text that you give to input
+    show_colors() -> return list of colors you can use
+    show_fonts() -> return list of fonts you can use
+    
