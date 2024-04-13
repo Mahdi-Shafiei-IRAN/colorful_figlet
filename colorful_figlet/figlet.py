@@ -1,5 +1,5 @@
 import os, pyfiglet, random, time
-from lists import *
+from .lists import *
 from pyfiglet import Figlet
 from termcolor import colored
 
