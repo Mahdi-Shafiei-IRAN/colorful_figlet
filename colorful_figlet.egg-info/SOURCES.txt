@@ -1,6 +1,7 @@
 setup.py
 colorful_figlet/__init__.py
 colorful_figlet/figlet.py
+colorful_figlet/li.py
 colorful_figlet/lists.py
 colorful_figlet.egg-info/PKG-INFO
 colorful_figlet.egg-info/SOURCES.txt

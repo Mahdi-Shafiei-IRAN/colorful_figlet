@@ -1,5 +1,6 @@
 import os, pyfiglet, random, time
-from .lists import *
+from .li import COLORS , FONTS
+#from .lists import *
 from pyfiglet import Figlet
 from termcolor import colored
 
